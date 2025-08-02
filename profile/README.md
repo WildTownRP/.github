@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/GLwIM7r.png" alt="Wild Town RP Banner" width="100%">
+  <img src="https://i.imgur.com/3miw2Cx.png" alt="Wild Town RP Banner" width="100%">
 </p>
 
 # Wild Town RP (WTRP)
